@@ -6,7 +6,7 @@ Lavanya Thollamadugu and Haolin Tang at Virginia Commonwealth University.
 
 
 ## Table of Contents
-* Twitter API Framework
+* Twitter API Framework. (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)).
 
 
 ## License
