@@ -25,7 +25,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
   `(dropout): Dropout(p=0.3, inplace=False)`\
   `(fc): Linear(in_features=256, out_features=1, bias=True)`\
   `(sig): Sigmoid()`\
-  `)`\
+  `)`
   
   Training Details: 
   - `batch_size = 50`  
