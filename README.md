@@ -36,7 +36,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 
 ## Results
 **Logistics Regression:**
-![image](https://user-images.githubusercontent.com/63976253/163841515-b9010c5f-18e5-4b0d-8333-fe709b8d29f5.png)
+![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)
 ## Discussion
 
 ## Future Work
