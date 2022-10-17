@@ -18,7 +18,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 
 ## Method
 * **Logistics Regression:** `model = LogisticRegression(penalty='l2')`
-* **Long Short-Term Memory:**
+* **Long Short-Term Memory:**\
  `SentimentRNN(`\
   `(embedding): Embedding(1001, 64)`\
   `(lstm): LSTM(64, 256, num_layers=2, batch_first=True)`\
