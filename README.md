@@ -39,8 +39,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
    - Test reulsts on IMDB dataset: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)\
    - Validation result on collected tweets:\
-   |Movie Name| ---| ss|
-   |Positive Rate|---|32%|
+
 
 * **Long Short-Term Memory:**
 ## Discussion
