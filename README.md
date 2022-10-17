@@ -19,6 +19,9 @@ We provide two options to run our codes.
     - Create a new conda environment named `cmsc516` with the following command.\
       `conda env create -f environment.yml`
     - Activate the environment: `conda activate cmsc516`  
+    - Install jupyter notebook: `conda install jupyter`
+    - Run jupyter from system: `jupyter notebook`
+    Now, you can run two notebooks in your local system.
 
 ## Data
 The IMDB movie reveiws dataset (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)) consists of 50,000 movie reviews. 25,000 reviews are positive and 25,000 reviews are negative. This dataset is split into 80% training and 20% testing. The tweets mentioning a specific movie are collected using the Twitter API Framework (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)) for validation.
