@@ -14,7 +14,7 @@ We provide two options to run our codes.
    (Run [IMDB_Sentiment Analysis_LR.ipynb](https://colab.research.google.com/drive/1l6apFGjgIOJBiuueaW6r9PmwqaNFQDGs?usp=sharing))
    - Sentiment analysis using Long Short-Term Memory.
 * **Run in Local Setup:**
-    - Install Andconda (See [Conda_Install](https://docs.continuum.io/anaconda/install/))
+    - Install Andconda (See [Installation Guide](https://docs.continuum.io/anaconda/install/))
     - Create a new conda environment named `cmsc516` with the following command.\
       `conda env create -f environment.yml`
     - Activate the environment: `conda activate cmsc516`  
