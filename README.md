@@ -22,10 +22,10 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
  `SentimentRNN(`\
   `(embedding): Embedding(1001, 64)`\
   `(lstm): LSTM(64, 256, num_layers=2, batch_first=True)`\
-  (dropout): Dropout(p=0.3, inplace=False)\
-  (fc): Linear(in_features=256, out_features=1, bias=True)\
-  (sig): Sigmoid()\
-  )
+  `(dropout): Dropout(p=0.3, inplace=False)`\
+  `(fc): Linear(in_features=256, out_features=1, bias=True)`\
+  `(sig): Sigmoid()`\
+  `)`
  
 
 ## Results
