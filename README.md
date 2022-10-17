@@ -17,7 +17,7 @@ The [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysi
 For data preprocessing, we remove HTLM tags, special characters and stopwords using NLTK library. We also convert the texts to lower case and conduct stemming.     
 
 ## Method
-* **Logistics Regression:** 'model = LogisticRegression(penalty='l2')'
+* **Logistics Regression:** `model = LogisticRegression(penalty='l2')`
 * **Long Short-Term Memory:**
  
 
