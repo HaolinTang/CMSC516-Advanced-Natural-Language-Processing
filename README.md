@@ -13,7 +13,7 @@ We provide two options to run our codes.
     - Sentiment analysis using Logistics Regression.
    (Run [IMDB_Sentiment Analysis_LR.ipynb](https://colab.research.google.com/drive/1l6apFGjgIOJBiuueaW6r9PmwqaNFQDGs?usp=sharing))
    - Sentiment analysis using Long Short-Term Memory.
-   (Run [IMDB_Sentiment Analysis_LSTM.ipynb](https://colab.research.google.com/drive/1A8Agdp63gJH4KNGwfxVs9wgOcw9wsd0c?usp=sharing))
+   (Run [IMDB_Sentiment Analysis_LSTM.ipynb](https://colab.research.google.com/drive/1A8Agdp63gJH4KNGwfxVs9wgOcw9wsd0c?usp=sharing),**NOTE**Please change the Colab runtime type to GPU)
 * **Run in Local Setup:**
     - Install Andconda (See [Installation Guide](https://docs.continuum.io/anaconda/install/))
     - Create a new conda environment named `cmsc516` with the following command.\
