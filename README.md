@@ -36,8 +36,11 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 
 ## Results
 * **Logistics Regression:** \
-![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)
-* **Long Short-Term Memory:**\
+ Test reulsts on IMDB dataset\
+![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)\
+ 
+
+* **Long Short-Term Memory:**
 ## Discussion
 
 ## Future Work
