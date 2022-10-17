@@ -10,7 +10,7 @@ In this project, we will build a Logistics Regression (LR) and a Long Short-Term
 ## Installation 
 We provide two options to run our codes. 
 ### Run in Google Colab
-    - Sentiment analysis using logistics regression.\
+    - Sentiment analysis using logistics regression.
    (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data))
 ### Run in Local Setup
 
