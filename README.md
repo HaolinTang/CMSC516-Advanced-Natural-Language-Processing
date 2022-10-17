@@ -14,7 +14,7 @@ We provide two options to run our codes.
    (Run [IMDB_Sentiment Analysis_LR.ipynb](https://colab.research.google.com/drive/1l6apFGjgIOJBiuueaW6r9PmwqaNFQDGs?usp=sharing))
    - Sentiment analysis using Long Short-Term Memory.
 * **Run in Local Setup:**
-    - Create a new conda environment named `cmsc516` with the following command.\
+    1. Create a new conda environment named `cmsc516` with the following command.\
        `cond create --name cmsc516 python=3.9`
 
 ## Data
