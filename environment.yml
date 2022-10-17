@@ -1,4 +1,4 @@
-name: CMSC516
+name: cmsc516
 dependencies:
   - pip
   - python
