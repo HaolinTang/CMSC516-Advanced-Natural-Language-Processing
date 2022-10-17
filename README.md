@@ -12,7 +12,7 @@ We provide two options to run our codes.
 * **Run in Google Colab:**
     - Sentiment analysis using logistics regression.
    (Run [IMDB_Sentiment Analysis_LR.ipynb](https://colab.research.google.com/drive/1l6apFGjgIOJBiuueaW6r9PmwqaNFQDGs?usp=sharing))
-   
+   - Sentiment analysis using Long Short-Term Memory.
 * **Run in Local Setup:**
 
 
