@@ -17,7 +17,8 @@ The [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysi
 
 
 ## Method
-
+* Logistics Regression: 
+* Long short-term memory:
 
 
 ## Results
