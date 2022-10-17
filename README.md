@@ -12,7 +12,7 @@ In this project, we will build a Logistics Regression (LR) and a Long Short-Term
 
 
 ## Data
-The IMDB movie reveiws dataset (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)) consists of 50,000 movie reviews. This dataset is split into 80% training and 20% testing. The tweets mentioning a specific movie are collected using the Twitter API Framework (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)) for validation.
+The IMDB movie reveiws dataset (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)) consists of 50,000 movie reviews. 25,000 reviews are positive and 25,000 reviews are negative. This dataset is split into 80% training and 20% testing. The tweets mentioning a specific movie are collected using the Twitter API Framework (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)) for validation.
 
 For data preprocessing, we remove HTLM tags, special characters and stopwords using NLTK library. We also convert the texts to lower case and conduct stemming.     
 
