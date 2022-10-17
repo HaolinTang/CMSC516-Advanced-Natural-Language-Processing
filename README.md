@@ -28,8 +28,10 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
   `)`\
   
   Training Details: 
-  - lr = 0.001
-  - batch_size = 50  
+  - `batch_size = 50`  
+  - `epochs = 5`
+  - `criterion = nn.BCELoss()`
+  - `optimizer = torch.optim.Adam(model.parameters(), lr = 0.001)`
 
 
 ## Results
