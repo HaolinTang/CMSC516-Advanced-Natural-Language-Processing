@@ -1,0 +1,13 @@
+name: CMSC516
+dependencies:
+  - pip
+  - python
+  - tensorflow
+  - matplotlib
+  - scipy
+  - pandas
+  - scikit-learn
+  - nltk
+  - keras
+  - csv
+  - torch
