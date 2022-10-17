@@ -27,8 +27,9 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
   `(sig): Sigmoid()`\
   `)`\
   
-  Training Details: -`lr = 0.001`
-                    -`batch_size = 50`   
+  Training Details: 
+  - lr = 0.001
+  - batch_size = 50  
 
 
 ## Results
