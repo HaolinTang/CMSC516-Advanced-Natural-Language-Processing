@@ -57,7 +57,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
 ## Discussion
-1. The logistics regression model achieves higher accuracy than the LSTM model on IMDB test data. 
+1. The logistics regression model achieves higher accuracy than the LSTM model on IMDB test data. However, we expected the LSTM model can output higher accuracy. The reason could be that the LSTM modle is underfitting.    
 2. 
 
 
