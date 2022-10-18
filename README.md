@@ -62,12 +62,11 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 3. There are two reasons cause the discrepancy:
    - Many tweets collected by hastag search are not related to movie reviews closely. For example, some tweets are advertisements or invitations.
    - The tweets collected are imbalanced which means that the extracted tweets have a different ratio between positive reviews and negative reviews.
- 
-
-
+4. Stemming does not have a significant impact on the accuracy of models in this project.
 
 ## Future Work
-
+1. We will collect more tweets for a specific movie to avoid underfitting and improve the test accuracy of LSTM model. Once we conclude a LSTM model with higher accuracy than LR model, we will make sentiment analysis using LSTM. 
+2. 
 
 
 
