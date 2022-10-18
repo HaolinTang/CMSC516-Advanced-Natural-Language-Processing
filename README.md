@@ -70,6 +70,3 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 3. We will apply a pre-trained word embedding method for feature representation and investigate the performance. 
 
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
