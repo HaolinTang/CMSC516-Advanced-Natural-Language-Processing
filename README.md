@@ -5,7 +5,12 @@ This is a repository includes the sentiment analysis project implementation of C
 Lavanya Thollamadugu and Haolin Tang Group Project at Virginia Commonwealth University.
 
 ## Overview
-In this project, we will build a Logistics Regression (LR) and a Long Short-Term Memory (LSTM) for sentiment analysis on movie reviews. First, we will download the IMDB movie reviews and conduct the data preprocessing. Second, a LR model and a LSTM will be trained and tested. In addition, the performance of these two models will be compared. Third, we will apply the Twitter API to collect some tweets mentioning a specific movie and then feed them to the LR and LSTM models. Last, we will investigate the sentiment analysis results on the tweets.        
+In this project, we will build a Logistics Regression (LR) and a Long Short-Term Memory (LSTM) for sentiment analysis on movie reviews. First, we will download the IMDB movie reviews and conduct the data preprocessing. Second, a LR model and a LSTM will be trained and tested. In addition, the performance of these two models will be compared. Third, we will apply the Twitter API to collect some tweets mentioning a specific movie and then feed them to the LR and LSTM models. Last, we will investigate the sentiment analysis results on the tweets.  
+
+## Data
+The IMDB movie reveiws dataset (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)) consists of 50,000 movie reviews. 25,000 reviews are positive and 25,000 reviews are negative. This dataset is split into 80% training and 20% testing. The tweets mentioning a specific movie are collected using the Twitter API Framework (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)) for validation.
+
+For data preprocessing, we remove HTLM tags, special characters and stopwords using NLTK library. We also convert the texts to lower case and conduct stemming.  
 
 ## Installation & Usage
 We recommend to run the code in Google Colab while we provide two options to run our codes. 
@@ -21,12 +26,7 @@ We recommend to run the code in Google Colab while we provide two options to run
       `conda env create -f environment.yml`
     - Activate the environment: `conda activate cmsc516`  
     - Install jupyter notebook: `conda install jupyter`
-    - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.
-
-## Data
-The IMDB movie reveiws dataset (See [IMDB dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)) consists of 50,000 movie reviews. 25,000 reviews are positive and 25,000 reviews are negative. This dataset is split into 80% training and 20% testing. The tweets mentioning a specific movie are collected using the Twitter API Framework (See [twitter_api_framework.ipynb](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/twitter_api_framework.ipynb)) for validation.
-
-For data preprocessing, we remove HTLM tags, special characters and stopwords using NLTK library. We also convert the texts to lower case and conduct stemming.     
+    - Run jupyter from system: `jupyter notebook`. Now, you can run the notebooks in your local system.   
 
 ## Method
 * **Logistics Regression:** `model = LogisticRegression(penalty='l2')`
