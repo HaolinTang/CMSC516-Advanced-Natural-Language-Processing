@@ -9,7 +9,8 @@ In this project, we will build a Logistics Regression (LR) and a Long Short-Term
 
 ## Installation & Usage
 We recommend to run the code in Google Colab while we provide two options to run our codes. 
-* **Run in Google Colab:**
+* **Run in Google Colab:**\
+    Before running our codes, you have to first download the dataset to your Google Drive and load it to your Google Colab.
     - Sentiment analysis using Logistics Regression.
    (Run [IMDB_Sentiment Analysis_LR.ipynb](https://colab.research.google.com/drive/1l6apFGjgIOJBiuueaW6r9PmwqaNFQDGs?usp=sharing))
    - Sentiment analysis using Long Short-Term Memory.\
