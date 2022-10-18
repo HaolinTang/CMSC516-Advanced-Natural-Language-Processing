@@ -55,9 +55,10 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 * **Validation Results on Collected Tweets:**
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
-## Discussion
+## Discussion & Future Work
 
-## Future Work
+
+
 
 
 ## License
