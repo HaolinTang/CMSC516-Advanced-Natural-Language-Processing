@@ -52,7 +52,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
    - Long Short-Term Memory: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lstm_result.png)\
 It can be seen that the logistics regression can provide higher accuracy than the LSTM model on IMDB test data.  
-* **Validation Results on Collected Tweets:**
+* **Validation Results on Collected Tweets:**\
     We collected tweets realted to five movies and applied the trained logistics model to make analysis.  
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
