@@ -50,7 +50,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
    - Logistic regression: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)
    - Long Short-Term Memory: \
-    ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lstm_results.png)
+    ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/2.png)
 
 * **Validation Results on Collected Tweets:**
 ## Discussion
