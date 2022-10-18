@@ -57,8 +57,13 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
 ## Discussion
-1. The logistics regression model achieves higher accuracy than the LSTM model on IMDB test data. However, we expected the LSTM model can output higher accuracy. The reason could be that the training dataset is not large enough and the LSTM model is underfitting.    
-2. 
+1. The LR model achieves higher accuracy than the LSTM model on IMDB test data. However, we expected the LSTM model can output higher accuracy. The reason could be that the training dataset is not large enough and the LSTM model is underfitting.    
+2. The LR model outputs the highest positive rate to Spider-man No Way Home, which matches the IMDB rating. The LR model outputs the lowest positive rate to Red Notice, while F9 has the worst IMDB rating.
+3. There are two reasons cause the discrepancy:
+   - Many tweets collected by hastag search are not related to movie reviews closely. For example, some tweets are advertisements or invitations.
+   - The tweets collected are imbalanced which mean that the extracted tweets have different ratio between positive reviews and negative reviews.  
+ 
+
 
 
 ## Future Work
