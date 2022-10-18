@@ -61,7 +61,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 2. The LR model outputs the highest positive rate to Spider-man No Way Home, which matches the IMDB rating. The LR model outputs the lowest positive rate to Red Notice, while F9 has the worst IMDB rating.
 3. There are two reasons cause the discrepancy:
    - Many tweets collected by hastag search are not related to movie reviews closely. For example, some tweets are advertisements or invitations.
-   - The tweets collected are imbalanced which mean that the extracted tweets have different ratio between positive reviews and negative reviews.  
+   - The tweets collected are imbalanced which means that the extracted tweets have a different ratio between positive reviews and negative reviews after each search.  
  
 
 
