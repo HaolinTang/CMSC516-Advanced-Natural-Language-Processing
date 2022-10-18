@@ -52,8 +52,9 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
    - Long Short-Term Memory: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lstm_result.png)
 
-
 * **Validation Results on Collected Tweets:**
+    ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lstm_tweets_results.png)
+
 ## Discussion
 
 ## Future Work
