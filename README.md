@@ -56,8 +56,8 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
 ## Discussion
-1. The LR model outputs the highest positive rate to Spiderman No Way Home.
-![image](https://user-images.githubusercontent.com/102632570/196449158-deaa3885-ca09-45f4-bc8e-34fd5b0f63bc.png)
+1. The logistics regression model achieves higher accuracy than the LSTM model on IMDB test data. 
+2. 
 
 
 ## Future Work
