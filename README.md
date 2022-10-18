@@ -66,7 +66,7 @@ For data preprocessing, we remove HTLM tags, special characters and stopwords us
 
 ## Future Work
 1. We will collect more tweets for a specific movie to avoid underfitting and improve the test accuracy of LSTM model. Once we conclude a LSTM model with higher accuracy than LR model, we will make sentiment analysis using LSTM. 
-2. 
+2. We will attempt to remove the tweets unrelated to movie reviews to mitigate the adverse effect of data imbalance.  
 
 
 
