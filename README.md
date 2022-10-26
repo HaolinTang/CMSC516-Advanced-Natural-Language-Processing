@@ -48,7 +48,7 @@ We recommend to run the code in Google Colab while we provide two options to run
 
 ## Results
 * **Test Reulsts on IMDB Dataset:** 
-   - Logistic regression: \
+   - Logistic Regression: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_results.png)
    - Long Short-Term Memory: \
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lstm_result.png)\
