@@ -57,7 +57,7 @@ We recommend to run the code in Google Colab while we provide two options to run
 * **Validation Results on Collected Tweets:**
     ![image](https://github.com/HaolinTang/CMSC516-Advanced-Natural-Language-Processing/blob/main/lr_tweets_results.png)
 
-## Discussion
+## Discussions
 1. The LR model achieves higher accuracy than the LSTM model on IMDB test data. However, we expected the LSTM model can output higher accuracy. The reason could be that the training dataset is not large enough and the LSTM model is underfitting.    
 2. The LR model outputs the highest positive rate to Spider-man No Way Home, which matches the IMDB rating. The LR model outputs the lowest positive rate to Red Notice, while F9 has the worst IMDB rating.
 3. There are two reasons cause the discrepancy:
