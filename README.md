@@ -1,4 +1,4 @@
-# CMSC516-Advanced-Natural-Language-Processing
+# CMSC516_Advanced_NLP_Sentiment_Analysis
 This is a repository includes the sentiment analysis project implementation of CMSC516_Advanced NLP.
 
 ## Authors
